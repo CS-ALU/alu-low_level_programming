@@ -1,11 +1,12 @@
 #include <stdio.h>
-
-/**
- * main - Entry point
- *
- * Return: Always 0 (Success)
- */
-int main(void)
+ 
+int main()
 {
-    return (0);
+    char name[]="student";
+    int i;
+     
+    for(i=0;i<100;i++)
+        printf("%s ",name);
+     
+    return 0;
 }
