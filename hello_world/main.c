@@ -2,11 +2,7 @@
  
 int main()
 {
-    char name[]="student";
-    int i;
-     
-    for(i=0;i<2;i++)
-        printf("%s ",name);
-     
-    return 0;
+   printf("This is Line 1\n");
+   printf("This is line 2\n");
+   return 0;
 }
