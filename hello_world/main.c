@@ -1,5 +1,4 @@
-#include <stdio.h>
- 
+#include <stdio.h> 
 int main()
 {
    printf("This is Line 1");
