@@ -1,6 +1,5 @@
 #include <stdio.h> 
-int main()
+int main(void)
 {
-   printf("This is a Line");
-   return 0;
+   return (0);
 }
