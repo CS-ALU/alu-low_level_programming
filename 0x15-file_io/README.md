@@ -1,7 +1,7 @@
 # File I/O
 ### This directory is for learning about _file input and output_ in C. Specifically to learn how to use files in the hard drive as opposed to RAM.
 
-#### holberton.h
+#### main.h
 * Header file containing all the neccesary libraries for this project as well as the prototypes for all the functions.
 
 #### 0-read_textfile.c
